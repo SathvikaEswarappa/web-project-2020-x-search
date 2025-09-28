@@ -5,6 +5,21 @@ This project recreates the front-end of Google Search using HTML and CSS. It inc
 - Regular Google Search (`index.html`)
 - Google Image Search (`images.html`)
 - Google Advanced Search (`advanced.html`)
+- ## Styling
+
+All pages use a shared stylesheet (`style.css`) to maintain consistent design. It includes:
+
+- Centered layout and rounded search bar
+- Styled buttons and input fields
+- Navigation links in the top-right corner
+- Blue "Advanced Search" button with white text
+
+To apply the styles, each HTML file includes:
+
+```html
+<link rel="stylesheet" href="style.css">
+
+
 
 ## Features
 
