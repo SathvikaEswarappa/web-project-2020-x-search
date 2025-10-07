@@ -46,6 +46,4 @@ To run locally:
 
 No backend or dependencies required.
 
-## License
 
-MIT
